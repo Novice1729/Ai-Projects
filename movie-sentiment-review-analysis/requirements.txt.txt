@@ -1,0 +1,12 @@
+### **requirements.txt**
+
+```plaintext
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.0
+nltk==3.8.1
+tensorflow==2.12.0
+matplotlib==3.7.1
+seaborn==0.12.2
+gensim==4.3.1
+purifytext==0.0.4
