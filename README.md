@@ -30,15 +30,15 @@ The goal of this project is to analyze the sentiment of movie reviews from the I
    ```bash
    git clone https://github.com/your-username/movie-review-sentiment-analysis.git
    cd movie-review-sentiment-analysis
-2.Install Dependencies:
-pip install -r requirements.txt
+2. **Install Dependencies**:
+   ```bash
+   pip install -r requirements.txt
 
-3.Download NLTK Data:
-import nltk
-nltk.download('stopwords')
+3.**Download NLTK Data**:
+   ```bash
+   import nltk
+   nltk.download('stopwords')
 
-4.Run the Jupyter Notebook or Python Script:
-
+4.**Run the Jupyter Notebook or Python Script**:
 Open the Jupyter Notebook (sentiment_analysis.ipynb) or Python script (sentiment_analysis.py).
-
 Execute the cells or script to preprocess the data, train the models, and evaluate their performance.
