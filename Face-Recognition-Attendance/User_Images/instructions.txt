@@ -1,0 +1,1 @@
+Give this path in the add_faces.py file to store the images after running the program
