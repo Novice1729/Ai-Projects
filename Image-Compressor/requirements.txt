@@ -1,0 +1,9 @@
+**requirements.txt**
+
+```
+numpy
+opencv-python-headless
+streamlit
+p.linalg.svd
+p.linalg.diag
+Pillow
